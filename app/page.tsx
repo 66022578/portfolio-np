@@ -1,9 +1,9 @@
-import Navbar from '../app/components/Navbar';
-import Image from 'next/image';
-import '@fortawesome/fontawesome-free/css/all.min.css';
+
+import Navbar from '../app/components/Navbar';  
 
 export default function Home() {
   return (
+<<<<<<< HEAD
     <div className="min-h-screen bg-gray-200">
       <header className="w-full bg-gray-900 text-white py-4">
         <Navbar />
@@ -68,5 +68,10 @@ export default function Home() {
         </div>
       </section>
     </div>
+=======
+    <header className="w-full bg-gray-900 text-white py-4">
+        <Navbar /> 
+    </header>
+>>>>>>> parent of 3531c9d (About_ME)
   );
 }

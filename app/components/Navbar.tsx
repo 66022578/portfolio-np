@@ -1,3 +1,4 @@
+// components/Navbar.js
 
 export default function Navbar() {
   return (
@@ -12,3 +13,4 @@ export default function Navbar() {
     
   );
 }
+    
