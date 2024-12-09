@@ -32,11 +32,11 @@ export default function Home() {
 
             <h3 className="mt-6 text-3xl font-semibold text-gray-700">About Me</h3>
             <ul className="mt-4 space-y-2 text-gray-700">
-              <li><strong>Name:</strong> Naphat Nonglek</li>
-              <li><strong>Nickname:</strong> Phat</li>
-              <li><strong>Age:</strong> 19</li>
-              <li><strong>University:</strong> Phayao University</li>
-              <li><strong>Major:</strong> Software Engineering</li>
+              <li><strong>Name: </strong>Naphat Nonglek</li>
+              <li><strong>Nickname: </strong>Phat</li>
+              <li><strong>Age: </strong>19</li>
+              <li><strong>University: </strong>Phayao University</li>
+              <li><strong>Major: </strong>Software Engineering</li>
             </ul>
 
             {/* Contact Section */}
