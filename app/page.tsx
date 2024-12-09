@@ -45,18 +45,21 @@ export default function Home() {
               <a
                 href="https://www.facebook.com/naphat.nonglek?locale=th_TH"
                 className="text-gray-800 hover:text-[#4267B2] transition-colors duration-300"
+                target="_blank"
               >
                 <i className="fab fa-facebook fa-2x"></i>
               </a>
               <a
                 href="https://www.instagram.com/pphat.np/"
                 className="text-gray-800 hover:text-[#E1306C] transition-colors duration-300"
+                target="_blank"
               >
                 <i className="fab fa-instagram fa-2x"></i>
               </a>
               <a
                 href="https://github.com/66022578"
                 className="text-gray-800 hover:text-gray-600 transition-colors duration-300"
+                target="_blank" 
               >
                 <i className="fab fa-github fa-2x"></i>
               </a>
